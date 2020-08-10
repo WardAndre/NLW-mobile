@@ -84,7 +84,7 @@ const styles = StyleSheet.create({
 
     favorited: {
         backgroundColor: '#e33d3d'
-    }
+    },
 
     contactButton: {
         backgroundColor: '#04d361',
